@@ -24,5 +24,5 @@ Welcome to My Github profile! I'm a student of Telkom Vocational High School.
  📞 Contac Me:                                                 
      Feel free to reach out if you have any questions or opportunities for collaboration!                                         
      Email: kiraniarenata94@gmail.com                                                                           
-     LinkedIn: https://id.linkedin.com/in/kirania-renata-manika-sari-484bb8300?trk=people-guest_people_search-card
+     LinkedIn: https://id.linkedin.com/in/kirania-renata-manika-sari-484bb8300?trk=people-guest_people_search-card                                                                                       
      Instagram: https://www.instagram.com/kiraniarenata._pages/
