@@ -13,7 +13,7 @@ Welcome to My Github profile! I'm a student of Telkom Vocational High School.
    ♾️ Programming Languages: CSS.                     
    💻 Tools dan Platform: Visual Studio Code.                      
 
-💥 Project:                                                              
+💥 Project:                                
    1. Web Portofolio                                                                                                          
       Description: I make it when I was class 10 grade, other than for tasks I make the web portofolio for share my portofolio                                                
       Contents:                                                                                             
