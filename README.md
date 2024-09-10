@@ -3,15 +3,15 @@
 Welcome to My Github profile! I'm a student of Telkom Vocational High School.
 
 ✨ About Me:
-   • Currently, I'm focusing on improving my skills in JavaScript, Python, and more.
-   • I'm learning CentOS, Programming
-   • Contac me: kiraniarenata94@gmail.com
+   • Currently, I'm focusing on improving my skills in JavaScript, Python, and more.                                                                                                                                 
+   • I'm learning CentOS, Programming.                                                                                                           
+   • Contac me: kiraniarenata94@gmail.com.          
 
    
 ⚡ Skills:
-   📖 I often make a short story with genre anything
-   ♾️ Programming Languages: CSS
-   💻 Tools dan Platform: Visual Studio Code
+   📖 I often make a short story with genre anything.                               
+   ♾️ Programming Languages: CSS.                     
+   💻 Tools dan Platform: Visual Studio Code.                      
 
 💥 Project:
    1. Web Portofolio
